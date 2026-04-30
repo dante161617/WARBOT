@@ -1,0 +1,13 @@
+exec(&null, usr, domain, ip, loop_ip)_?/memory_gap.ph(dat.iku.zero_ip)--^/usr(&null)==https:www.google.com;
+exec(dat.iku.zero_ip, admin, google.com, localhost);
+AL_FIN(__GLOBALHOST__)::__$$$__::__//:__^/&exec(localhost);
+AL_FIN(__LOCALIZEDHOST__)::__$$$__:_/&exec(find_usr(), memory_gap.mui(dat.iku.zero_ip), https:/ww1.admin_svr.domain_loop)|{
+	execute(memory_gap.mui--^/&exec(find_usr));
+	execute(load_url.alpha_one.lost_trairt(), memory_gap.mui);
+	execute(load_cmd(admin, net user &exec(localhost), ?*));
+	execute(sys/admin/usr::__^/net user ?*);
+	execute(sys/usr.cmd_prompt(find_antivirus().flip())/__^/data.mui = memory_gap.mui);
+	execute(find.__user.plate.__loop_back.mui += memory_gap.mui);
+	execute(add_domain.mui, (sys/admin/usr::__^/net user ?*));
+))
+};
